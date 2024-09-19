@@ -38,6 +38,9 @@ Todo.
 <summary>Proposal, Idea Generation</summary>
 
 - [Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers](https://arxiv.org/abs/2409.04109), Chenglei Si et al., Arxiv, 2024
+
+- [ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models](https://doi.org/10.48550/arXiv.2404.07738), Jinheon Baek et al., Arxiv, 2024
+
 </details>
 
 
