@@ -59,9 +59,10 @@ Todo.
 <details open>
 <summary>Physical, Robot, Experimentation</summary>
 
+- [A multi-agent-driven robotic AI chemist enabling autonomous chemical research on demand](https://doi.org/10.26434/chemrxiv-2024-w953h-v2), Tao Song et al., Chemrxiv, 2024
+
 - [Autonomous chemical research with large language models](https://www.nature.com/articles/s41586-023-06792-0), Daniil A. Boiko et al., Nature, 2023
 
-Todo. 
 </details>
 
 
