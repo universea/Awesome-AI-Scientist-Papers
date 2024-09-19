@@ -5,7 +5,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 <p align="center">
   <img src="docs/images/future_timeline.jpg" alt="Futrue timeline">
   <br>
-  <em>Autonomous AI/Robot Scientist Timeline</em>
+  <em>This timeline illustrates key milestones and future predictions in the development of autonomous AI/Robot scientists.</em>
+
 </p>
 
 ## Table of Contents
@@ -84,7 +85,7 @@ Todo.
 
 
 ## Survey
-Todo
+This section will cover comprehensive surveys in the field of AI scientists and autonomous research systems.
 
 
 
