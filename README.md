@@ -63,6 +63,8 @@ Todo.
 
 - [Autonomous chemical research with large language models](https://www.nature.com/articles/s41586-023-06792-0), Daniil A. Boiko et al., Nature, 2023
 
+- [An ontology for a Robot Scientist](https://doi.org/10.1093/bioinformatics/btl207), Larisa N. Soldatova et al., Bioinformatics, 2006
+
 </details>
 
 
@@ -89,8 +91,7 @@ Todo.
 
 
 ## Survey
-This section will cover comprehensive surveys in the field of AI scientists and autonomous research systems.
-
+- [Towards robot scientists for autonomous scientific discovery](https://doi.org/10.1186%2F1759-4499-2-1), Andrew Sparkes et al., Automated experimentation, 2010
 
 
 ## License
