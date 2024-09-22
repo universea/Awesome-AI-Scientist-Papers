@@ -53,6 +53,8 @@ Todo.
 
 - [Empowering Biomedical Discovery with AI Agents](https://arxiv.org/abs/2404.02831), Shanghua Gao et al., Arxiv, 2024
 
+- [Intelligent software for laboratory automation](https://doi.org/10.1016/j.tibtech.2004.07.010), Ken E. Whelan et al., Trends in Biotechnology, 2004
+
 </details>
 
 
