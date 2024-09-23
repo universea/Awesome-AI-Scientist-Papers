@@ -97,10 +97,12 @@ Todo.
 - [Towards robot scientists for autonomous scientific discovery](https://doi.org/10.1186%2F1759-4499-2-1), Andrew Sparkes et al., Automated experimentation, 2010
 
 ## Cite
+```
+bibtex
 @article{zhangautonomous,
   title={Autonomous Generalist Scientist: Towards and Beyond Human-level Automatic Research Using Foundation Model-Based AI Agents and Robots (A Position)},
   author={Zhang, Starkson and Pearson, Alfredo and Wang, Zhenting}
 }
-
+```
 ## License
 MIT
