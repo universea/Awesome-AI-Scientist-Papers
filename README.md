@@ -1,6 +1,6 @@
 # Awesome AI Scientist Papers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=universea.Awesome-AI-Scientist-Papers&left_text=Visitors) [![GitHub license](https://img.shields.io/github/license/universea/Awesome-AI-Scientist-Papers)](https://github.com/universea/Awesome-AI-Scientist-Papers/blob/main/LICENSE)
 
-Welcome to the **Awesome AI Scientist Papers** repository! This project aims to curate a collection of important papers to the field of AI/Robot Scientist.
+Welcome to the **Awesome AI Scientist Papers** repository! This project aims to curate a collection of important papers to the field of AI/Robot Scientist. PLease cite it if help [cite](#cite)
 
 <p align="center">
   <img src="docs/images/future_timeline.jpg" alt="Futrue timeline">
@@ -13,6 +13,7 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 - [Papers](#papers)
 - [Survey](#survey)
+- [cite](#cite)
 
 
 ## Papers
@@ -95,6 +96,11 @@ Todo.
 ## Survey
 - [Towards robot scientists for autonomous scientific discovery](https://doi.org/10.1186%2F1759-4499-2-1), Andrew Sparkes et al., Automated experimentation, 2010
 
+## Cite
+@article{zhangautonomous,
+  title={Autonomous Generalist Scientist: Towards and Beyond Human-level Automatic Research Using Foundation Model-Based AI Agents and Robots (A Position)},
+  author={Zhang, Starkson and Pearson, Alfredo and Wang, Zhenting}
+}
 
 ## License
 MIT
