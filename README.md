@@ -18,6 +18,10 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 ## Papers
 
+- [Towards Data-Centric Automatic R&D](https://arxiv.org/abs/2404.11276), Haotian Chen et al., Arxiv, 2024
+
+- [Mlr-copilot: Autonomous machine learning research based on large language models agents](https://arxiv.org/pdf/2408.14033), Ruochen Li et al., Arxiv, 2024
+
 - [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://www.arxiv.org/abs/2408.06292), Chris Lu et al., Arxiv, 2024
 
 - [Autonomous Generalist Scientist: Towards and Beyond Human-level Automatic Research Using Foundation Model-Based AI Agents and Robots (A Position)](http://dx.doi.org/10.13140/RG.2.2.35148.01923), Starkson Zhang et al., ResearchGate, 2024 
@@ -32,11 +36,22 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 <details open>
 <summary>Autonomous Literature Review</summary>
 
-Todo.
+- [SCILITLLM: HOW TO ADAPT LLMS FOR SCIENTIFIC LITERATURE UNDERSTANDING](https://arxiv.org/pdf/2408.15545), Sihang Li et al., Arxiv, 2024
+
+- [AutoSurvey: Large Language Models Can Automatically Write Surveys](https://arxiv.org/pdf/2406.10252), Wenjin Yao et al., Arxiv, 2024
+
+- [LLMs4Synthesis: Leveraging Large Language Models for Scientific Synthesis](https://arxiv.org/abs/2409.18812), Hamed Babaei Giglou et al., Arxiv, 2024
+
 </details>
 
 <details open>
 <summary>Proposal, Idea Generation</summary>
+
+- [An empirical investigation of the impact of ChatGPT on creativity](https://doi.org/10.1038/s41562-024-01953-1), Byung Cheol Lee et al., Nature Human Behaviour, 2024
+
+- [Nova: An Iterative Planning and Search Approach to Enhance Novelty and Diversity of LLM Generated Ideas](https://arxiv.org/abs/2410.14255), Xiang Hu et al., Arxiv, 2024
+
+- [Two Heads Are Better Than One: A Multi-Agent System Has the Potential to Improve Scientific Idea Generation](https://arxiv.org/pdf/2410.09403), Haoyang Su et al., Arxiv, 2024
 
 - [Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers](https://arxiv.org/abs/2409.04109), Chenglei Si et al., Arxiv, 2024
 
@@ -61,6 +76,8 @@ Todo.
 
 <details open>
 <summary>Physical, Robot, Experimentation</summary>
+
+- [Autonomous mobile robots for exploratory synthetic chemistry](https://www.nature.com/articles/s41586-024-08173-7), Tianwei Dai et al., Nature, 2024
 
 - [A multi-agent-driven robotic AI chemist enabling autonomous chemical research on demand](https://doi.org/10.26434/chemrxiv-2024-w953h-v2), Tao Song et al., Chemrxiv, 2024
 
@@ -88,12 +105,19 @@ Todo.
 
 </details>
 
+## News & Events
+- [How to Enter the Chen Institute & Science Prize for AI Accelerated Research](https://www.science.org/content/page/how-enter-chen-institute-science-prize-ai-accelerated-research),   ChenSciencePrize@aaas.org et al., Science, 2024
 
+- [Advancing scientific discovery with the aid of robotics](https://www.science.org/doi/10.1126/scirobotics.adt3842), Amos Matsiko, Science Robotics, 2024
 
+## Benchmark
+- [CORE-Bench: Fostering the Credibility of Published Research Through a Computational Reproducibility Agent Benchmark](https://arxiv.org/pdf/2409.11363v1), Zachary S. Siegel et al., Arxiv, 2024
 
 
 
 ## Survey
+- [Paradigm shifts from data-intensive science to robot scientists](https://doi.org/10.1016/j.scib.2024.09.029), Xin Li et al., Science Bulletin, 2024
+
 - [Towards robot scientists for autonomous scientific discovery](https://doi.org/10.1186%2F1759-4499-2-1), Andrew Sparkes et al., Automated experimentation, 2010
 
 ## Cite
