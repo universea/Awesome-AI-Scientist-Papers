@@ -18,7 +18,9 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 - [Papers](#papers)
 - [Survey](#survey)
-- [cite](#cite)
+- [News](#news)
+- [Benchmark](#benchmark)
+- [Cite](#cite)
 
 
 ## Papers
@@ -30,9 +32,6 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 - [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://www.arxiv.org/abs/2408.06292), Chris Lu et al., Arxiv, 2024
 
 - [Autonomous Generalist Scientist: Towards and Beyond Human-level Automatic Research Using Foundation Model-Based AI Agents and Robots (A Position)](http://dx.doi.org/10.13140/RG.2.2.35148.01923), Starkson Zhang et al., ResearchGate, 2024 
-
-
-- [Researchers built an ‘AI Scientist’ — what can it do?](https://doi.org/10.1038/d41586-024-02842-3), Davide Castelvecchi et al., Nature, 2024 
 
 
 - [ChatGPT as Research Scientist: Probing GPT’s capabilities as a Research Librarian, Research Ethicist, Data Generator, and Data Predictor](https://doi.org/10.1073/pnas.2404328121), Steven A. Lehr et al., PNAS, 2024 
@@ -110,20 +109,23 @@ Todo.
 
 </details>
 
-## News & Events
+## Survey
+- [Paradigm shifts from data-intensive science to robot scientists](https://doi.org/10.1016/j.scib.2024.09.029), Xin Li et al., Science Bulletin, 2024
+
+- [Artificial Intelligence, Scientific Discovery, and Product Innovation](https://doi.org/10.1186%2F1759-4499-2-1), Toner-Rodgers Aidan, aidantr.github.io, 2024
+
+- [Towards robot scientists for autonomous scientific discovery](https://doi.org/10.1186%2F1759-4499-2-1), Andrew Sparkes et al., Automated experimentation, 2010
+
+## News
+
+- [Researchers built an ‘AI Scientist’ — what can it do?](https://doi.org/10.1038/d41586-024-02842-3), Davide Castelvecchi et al., Nature, 2024 
+
 - [How to Enter the Chen Institute & Science Prize for AI Accelerated Research](https://www.science.org/content/page/how-enter-chen-institute-science-prize-ai-accelerated-research),   ChenSciencePrize@aaas.org et al., Science, 2024
 
 - [Advancing scientific discovery with the aid of robotics](https://www.science.org/doi/10.1126/scirobotics.adt3842), Amos Matsiko, Science Robotics, 2024
 
 ## Benchmark
 - [CORE-Bench: Fostering the Credibility of Published Research Through a Computational Reproducibility Agent Benchmark](https://arxiv.org/pdf/2409.11363v1), Zachary S. Siegel et al., Arxiv, 2024
-
-
-
-## Survey
-- [Paradigm shifts from data-intensive science to robot scientists](https://doi.org/10.1016/j.scib.2024.09.029), Xin Li et al., Science Bulletin, 2024
-
-- [Towards robot scientists for autonomous scientific discovery](https://doi.org/10.1186%2F1759-4499-2-1), Andrew Sparkes et al., Automated experimentation, 2010
 
 ## Cite
 ```
