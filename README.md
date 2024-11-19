@@ -95,7 +95,10 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 <details open>
 <summary>Manuscript</summary>
 
-Todo.
+- [CiteSee: Augmenting Citations in Scientific Papers with Persistent and Personalized Historical Context](https://arxiv.org/abs/2302.07302), Joseph Chee Chang et al., Arxiv, 2023
+
+- [Beyond Summarization: Designing AI Support for Real-World Expository Writing Tasks](https://arxiv.org/abs/2304.02623), Zejiang Shen et al., Arxiv, 2023
+
 </details>
 
 
@@ -111,6 +114,8 @@ Todo.
 
 ## Survey
 - [Paradigm shifts from data-intensive science to robot scientists](https://doi.org/10.1016/j.scib.2024.09.029), Xin Li et al., Science Bulletin, 2024
+
+- [A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery](https://arxiv.org/abs/2406.10833), Yu Zhang et al., Arxiv, 2024
 
 - [Artificial Intelligence, Scientific Discovery, and Product Innovation](https://doi.org/10.1186%2F1759-4499-2-1), Toner-Rodgers Aidan, aidantr.github.io, 2024
 
