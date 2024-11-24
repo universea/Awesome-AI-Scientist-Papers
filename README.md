@@ -135,11 +135,14 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 ## News
 
+- [Transforming science labs into automated factories of discovery](https://doi.org/10.1126/scirobotics.adm6991), Angelos Angelopoulos, Science Robotics, 2024
+
 - [Researchers built an ‘AI Scientist’ — what can it do?](https://doi.org/10.1038/d41586-024-02842-3), Davide Castelvecchi et al., Nature, 2024 
 
 - [How to Enter the Chen Institute & Science Prize for AI Accelerated Research](https://www.science.org/content/page/how-enter-chen-institute-science-prize-ai-accelerated-research),   ChenSciencePrize@aaas.org et al., Science, 2024
 
 - [Advancing scientific discovery with the aid of robotics](https://www.science.org/doi/10.1126/scirobotics.adt3842), Amos Matsiko, Science Robotics, 2024
+
 
 ## Benchmark
 - [CORE-Bench: Fostering the Credibility of Published Research Through a Computational Reproducibility Agent Benchmark](https://arxiv.org/pdf/2409.11363v1), Zachary S. Siegel et al., Arxiv, 2024
