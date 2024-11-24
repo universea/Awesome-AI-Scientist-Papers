@@ -5,12 +5,12 @@
 [![Visits Badge](https://badges.pufler.dev/visits/universea/Awesome-AI-Scientist-Papers)](https://badges.pufler.dev/visits/universea/Awesome-AI-Scientist-Papers)
 [![GitHub license](https://img.shields.io/github/license/universea/Awesome-AI-Scientist-Papers)](https://github.com/universea/Awesome-AI-Scientist-Papers/blob/main/LICENSE)
 
-Welcome to the **Awesome AI Scientist Papers** repository! This project aims to curate a collection of important papers to the field of AI/Robot Scientist. Please cite it if help [cite](#cite)
+Welcome to the **Awesome AI Scientist Papers** repository! This project aims to curate a collection of important papers to the field of AI/Robot Scientist.
 
 <p align="center">
   <img src="docs/images/future_timeline.jpg" alt="Futrue timeline">
   <br>
-  <em>This timeline illustrates key milestones and future predictions in the development of autonomous AI/Robot scientists.</em>
+  <em>This timeline illustrates key milestones and future predictions in the development of autonomous AI Scientist and Robot Scientist.</em>
 
 </p>
 
@@ -46,6 +46,10 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 - [LLMs4Synthesis: Leveraging Large Language Models for Scientific Synthesis](https://arxiv.org/abs/2409.18812), Hamed Babaei Giglou et al., Arxiv, 2024
 
+- [PubTator 3.0: an AI-powered literature resource for unlocking biomedical knowledge](https://doi.org/10.1093/nar/gkae235), Chih-Hsuan Wei et al., Nucleic Acids Research, 2024
+
+- [PubMed and beyond: biomedical literature search in the age of artificial intelligence](https://doi.org/10.1016/j.ebiom.2024.104988), Qiao Jin et al., eBioMedicine, 2024
+
 </details>
 
 <details open>
@@ -60,6 +64,12 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 - [Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers](https://arxiv.org/abs/2409.04109), Chenglei Si et al., Arxiv, 2024
 
 - [ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models](https://doi.org/10.48550/arXiv.2404.07738), Jinheon Baek et al., Arxiv, 2024
+
+- [Forecasting high-impact research topics via machine learning on evolving knowledge graphs](https://arxiv.org/abs/2402.08640), Xuemei Gu et al., Arxiv, 2024
+
+- [Large Language Models are Zero Shot Hypothesis Proposers](https://arxiv.org/abs/2311.05965), Biqing Qi et al., Arxiv, 2023
+
+- [SciMON: Scientific Inspiration Machines Optimized for Novelty](https://arxiv.org/abs/2305.14259), Qingyun Wang et al., Arxiv, 2023
 
 </details>
 
@@ -109,6 +119,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 - [Automated Peer Reviewing in Paper SEA: Standardization, Evaluation, and Analysis](https://doi.org/10.48550/arXiv.2407.12857), Jianxiang Yu et al., Arxiv, 2024
 
+- [MARG: Multi-Agent Review Generation for Scientific Papers](https://arxiv.org/abs/2401.04259), Mike D'Arcy et al., Arxiv, 2024
+
 
 </details>
 
@@ -131,6 +143,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 ## Benchmark
 - [CORE-Bench: Fostering the Credibility of Published Research Through a Computational Reproducibility Agent Benchmark](https://arxiv.org/pdf/2409.11363v1), Zachary S. Siegel et al., Arxiv, 2024
+
+- [CiteBench: A benchmark for Scientific Citation Text Generation](https://arxiv.org/abs/2212.09577), Martin Funkquist et al., Conference on Empirical Methods in Natural Language Processing, 2022
 
 ## Cite
 ```
