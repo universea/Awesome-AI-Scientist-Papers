@@ -91,6 +91,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 <details open>
 <summary>Physical, Robot, Experimentation</summary>
 
+- [MatPilot: an LLM-enabled AI Materials Scientist under the Framework of Human-Machine Collaboration](https://arxiv.org/abs/2411.08063), Ziqi Ni et al., Arxiv, 2024
+
 - [Autonomous mobile robots for exploratory synthetic chemistry](https://www.nature.com/articles/s41586-024-08173-7), Tianwei Dai et al., Nature, 2024
 
 - [A multi-agent-driven robotic AI chemist enabling autonomous chemical research on demand](https://doi.org/10.26434/chemrxiv-2024-w953h-v2), Tao Song et al., Chemrxiv, 2024
