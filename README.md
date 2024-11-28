@@ -2,9 +2,8 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 ![Stars](https://img.shields.io/github/stars/universea/Awesome-AI-Scientist-Papers)
-[![Visits Badge](https://badges.pufler.dev/visits/universea/Awesome-AI-Scientist-Papers)](https://visitor-badge.laobi.icu/badge?page_id=universea.Awesome-AI-Scientist-Papers)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Funiversea%2FAwesome-AI-Scientist-Papers.git&label=Visitors&countColor=%2337d67a&style=flat&labelStyle=none)
 [![GitHub license](https://img.shields.io/github/license/universea/Awesome-AI-Scientist-Papers)](https://github.com/universea/Awesome-AI-Scientist-Papers/blob/main/LICENSE)
-
 
 Welcome to the **Awesome AI Scientist Papers** repository! This project aims to curate a collection of important papers to the field of AI/Robot Scientist.
 
