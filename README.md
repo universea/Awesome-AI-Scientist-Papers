@@ -137,6 +137,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 ## News
 
+- [A new golden age of discovery](https://storage.googleapis.com/deepmind-media/DeepMind.com/Assets/Docs/a-new-golden-age-of-discovery_nov-2024.pdf), Conor Griffin et al., Google DeepMind, 2024
+
 - [Transforming science labs into automated factories of discovery](https://doi.org/10.1126/scirobotics.adm6991), Angelos Angelopoulos, Science Robotics, 2024
 
 - [Researchers built an ‘AI Scientist’ — what can it do?](https://doi.org/10.1038/d41586-024-02842-3), Davide Castelvecchi et al., Nature, 2024 
