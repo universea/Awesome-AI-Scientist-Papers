@@ -127,6 +127,9 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 </details>
 
 ## Survey
+
+- [Bridging AI and Science: Implications from a Large-Scale Literature Analysis of AI4Science](https://arxiv.org/abs/2412.09628), Yutong Xie et al., Arxiv, 2024
+
 - [Paradigm shifts from data-intensive science to robot scientists](https://doi.org/10.1016/j.scib.2024.09.029), Xin Li et al., Science Bulletin, 2024
 
 - [A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery](https://arxiv.org/abs/2406.10833), Yu Zhang et al., Arxiv, 2024
