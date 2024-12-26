@@ -138,6 +138,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 - [Artificial Intelligence, Scientific Discovery, and Product Innovation](https://doi.org/10.1186%2F1759-4499-2-1), Toner-Rodgers Aidan, aidantr.github.io, 2024
 
+- [AI for Science: AI enabled scientific facility transforms fundamental research](https://bulletinofcas.researchcommons.org/journal/vol39/iss1/8/), Xiaokang Yang, Bulletin of Chinese Academy of Sciences, 2024
+
 - [Towards robot scientists for autonomous scientific discovery](https://doi.org/10.1186%2F1759-4499-2-1), Andrew Sparkes et al., Automated experimentation, 2010
 
 ## News
