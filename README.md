@@ -25,6 +25,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 ## Papers
 
+- [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/abs/2501.04227), Samuel Schmidgall et al., Arxiv, 2025
+
 - [Towards Data-Centric Automatic R&D](https://arxiv.org/abs/2404.11276), Haotian Chen et al., Arxiv, 2024
 
 - [Mlr-copilot: Autonomous machine learning research based on large language models agents](https://arxiv.org/pdf/2408.14033), Ruochen Li et al., Arxiv, 2024
@@ -32,7 +34,6 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 - [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://www.arxiv.org/abs/2408.06292), Chris Lu et al., Arxiv, 2024
 
 - [Autonomous Generalist Scientist: Towards and Beyond Human-level Automatic Research Using Foundation Model-Based AI Agents and Robots (A Position)](http://dx.doi.org/10.13140/RG.2.2.35148.01923), Starkson Zhang et al., ResearchGate, 2024 
-
 
 - [ChatGPT as Research Scientist: Probing GPT’s capabilities as a Research Librarian, Research Ethicist, Data Generator, and Data Predictor](https://doi.org/10.1073/pnas.2404328121), Steven A. Lehr et al., PNAS, 2024 
 
